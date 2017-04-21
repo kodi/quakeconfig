@@ -1,3 +1,4 @@
 *.pyc
+.idea/
 templates/compile/*
 notes.txt
